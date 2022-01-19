@@ -1,6 +1,6 @@
 var mysql = require("mysql");
 var inq = require("inquirer");
-var table = require("console.table");
+//var table = require("console.table");
 var add = require("./lib/add");
 var update = require("./lib/update");
 var view = require("./lib/view");

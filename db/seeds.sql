@@ -6,4 +6,4 @@ INSERT INTO roles (title, salary)
 VALUES ('Manager',100000);
 
 INSERT INTO employee (first_name, last_name)
-VALUES('Rebecca','Sundquist');
+VALUES('John','Hill');
